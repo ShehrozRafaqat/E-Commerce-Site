@@ -37,5 +37,5 @@ This project is a comprehensive e-commerce platform built using the MERN stack (
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ShehrozRafaqat/E-Commerce-Site.git
    cd your-repo-name
